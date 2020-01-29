@@ -1,0 +1,16 @@
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\Integrator.csprojResolveAssemblyReference.cache
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\MainWindow.g.cs
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\App.g.cs
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\Integrator_MarkupCompile.cache
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\Integrator_MarkupCompile.lref
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\bin\Debug\Integrator.exe.config
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\bin\Debug\Integrator.exe
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\bin\Debug\Integrator.pdb
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\bin\Debug\Integration.dll
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\bin\Debug\Integration.pdb
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\MainWindow.baml
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\Integrator.g.resources
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\Integrator.Properties.Resources.resources
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\Integrator.csproj.GenerateResource.Cache
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\Integrator.exe
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integrator\obj\Debug\Integrator.pdb

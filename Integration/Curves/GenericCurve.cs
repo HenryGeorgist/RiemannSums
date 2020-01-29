@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Integration.Curves.ErrorReporting;
+
+namespace Integration.Curves
+{
+    public class GenericCurve:PairedData
+    {
+        #region Notes
+        #endregion
+        #region Fields
+        #endregion
+        #region Properties
+        #endregion
+        #region Constructors
+        public GenericCurve(List<double> XValues, List<double> YValues)
+        {
+            X = XValues.ToArray();
+            Y = YValues.ToArray();
+        }
+
+
+        #endregion
+        #region Voids
+        #endregion
+        #region Functions
+        public override double GetXFromY(double y)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override double GetYFromX(double x)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override ErrorReport Validate()
+        {
+            ErrorReporting.ErrorReport report = new ErrorReport();
+            if (X.Count() != Y.Count()) { report.AddError(new CurveError("Your X values and Y values are not the same length.", 0, 0)); }
+            int decreasingcount = 0;
+            for (int i = 1; i < Math.Min(X.Count(), Y.Count()); i++)
+            {
+                if (X[i] < X[i - 1]) {decreasingcount += 1; }
+                if (decreasingcount > 0 && decreasingcount != Math.Min(Y.Count(), X.Count()) - 2) { report.AddError(new CurveError("The input arrays do not pass the vertical line test", 0, 0)); }
+            }
+            return report;
+        }
+        #endregion
+    }
+}

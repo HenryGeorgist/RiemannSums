@@ -1,0 +1,5 @@
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integration\bin\Debug\Integration.dll
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integration\bin\Debug\Integration.pdb
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integration\obj\Debug\Integration.dll
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integration\obj\Debug\Integration.pdb
+c:\users\q0hecwpl\documents\visual studio 2015\Projects\Integration\Integration\obj\Debug\Integration.csprojResolveAssemblyReference.cache
